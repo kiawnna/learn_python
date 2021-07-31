@@ -11,7 +11,7 @@ make a commit and push to this repo, where I can then check it.
 4. When finished, move on to `Day1.py` and follow the instructions.
 5. When you think you have the correct answers in `Day1Notes.md`, and you think your program runs correctly in `Day1.py`,
 add your changes and make a commit.
-6. Push your changes to the `homework` branch, *not* the master branch, and create a `pull-request` to the master branch.
+6. Push your changes to a `NEW` branch called: `day1-homework`, *not* the master branch, and create a `pull-request` to the master branch.
 7. `DO NOT MERGE` the pull-request.
 7. Let me know you have pushed. I will either:
     * `Approve` your changes, or 
