@@ -23,7 +23,6 @@ name = 'Kia'
 
 ## Question 3: Below is a function that changes a name passed to it to uppercase-lettering and a name variable.
 ## Complete the missing pieces so that the print statement has an f-string and prints: "The most awesome person is Kia."
-. Create a variable called `name`. ?
 Type your answer in the space between the back-ticks (`).
 ```
 def to_upper(name):
