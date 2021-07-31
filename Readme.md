@@ -5,10 +5,10 @@ You will clone down the repo and follow the instructions given in the files. To 
 make a commit and push to this repo, where I can then check it.
 
 ## Daily Flow
-1. Clone the repo to your computer by cd-ing into your home directory and pasting the command: git clone https://github.com/kiawnna/learn_python.git
+1. Clone the repo to your computer by cd-ing into your home directory by pasting the command: `git clone https://github.com/kiawnna/learn_python.git`.
 2. Open the folder in PyCharm.
-3. Start with Day1Notes.md and follow the instructions.
-4. When finished, move on to Day1.py and follow the instructions.
+3. Start with `Day1Notes.md` and follow the instructions.
+4. When finished, move on to `Day1.py` and follow the instructions.
 5. When you think you have the correct answers in `Day1Notes.md`, and you think your program runs correctly in `Day1.py`,
 add your changes and make a commit.
 6. Push your changes to the `homework` branch, *not* the master branch, and create a `pull-request` to the master branch.
