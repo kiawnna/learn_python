@@ -18,3 +18,4 @@
 #  * "Who is your brother and who is your girlfriend?" should appear in the terminal.
 #  CHALLENGE: The answers should appear, in order, BUT you have to create variables for both of them
 #  (brother and sister). Create these variables using a SINGLE LINE. (See the example from the website about a and b).
+print("What is your name?")

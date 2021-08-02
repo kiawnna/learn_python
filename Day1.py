@@ -18,7 +18,8 @@ print("this message is from Kia")
 print("Matt is a cotton-headed ninny-muggin!!!")
 print(29)
 print("1992")
-input("How old am I?")
+print("How old am I?"+"29")
+
 
 
 
