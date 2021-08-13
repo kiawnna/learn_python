@@ -4,7 +4,7 @@
 * Click `Run` for each example and make sure you understand what is happening.
 * Complete the Exercise section.
 * Answer the questions below.
-
+* Do this now.
 ## Question 1: What are some examples of variable types in Python?
 Type your answer in the space below.
 ```
