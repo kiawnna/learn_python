@@ -7,7 +7,7 @@
 # that tells your computer what to do.
 
 # TODO: When you run this file, *ALL* of the following should happen:
-#  * "Hello, Justin!" should appear in the terminal.
+#  * "Hello, YourName!" should appear in the terminal.
 #  * "This message is from Kia!" should appear in the terminal next.
 #  * "Matt is a cotton-headed niffy-muggin!!!" should appear in the terminal next.
 #  * Your age should appear in the terminal.

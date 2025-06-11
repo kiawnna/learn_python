@@ -1,18 +1,31 @@
 # Instructions for Learning Python
-This is the directory where we will practice Python.
+This is a directory you'll use to practice Python.
 
-You will clone down the repo and follow the instructions given in the files. To submit a project for review, you will
-make a commit and push to this repo, where I can then check it.
+Start with the Getting Started section below, then check out the Daily Flow and Other sections.
+
+## Getting Started
+This is a template repository. That means you can use it as a template for your own personal repository.
+
+To get started:
+1. Click the green "Use this template" button above.
+2. Give your repository a name like: `learn_python-<your_name>`.
+3. Click "Create repository from template".
+4. Go to GitHub and find your newly created repository.
+5. Clone the template repo to your computer using Git Bash or Terminal by pasting the command: `git clone <url_of_your_new_repo>`
+
+# TODO about how to set up git, xcode command line tools, etc
 
 ## Daily Flow
-1. Clone the repo to your computer by cd-ing into your home directory by pasting the command: `git clone https://github.com/kiawnna/learn_python.git`.
-2. Open the folder in PyCharm.
-3. Start with `Day1Notes.md` and follow the instructions.
-4. When finished, move on to `Day1.py` and follow the instructions.
-5. When you think you have the correct answers in `Day1Notes.md`, and you think your program runs correctly in `Day1.py`,
+1. Open the folder in PyCharm or Visual Studio Code.
+2. Start with `Day1Notes.md` and follow the instructions.
+3. When finished, move on to `Day1.py` and follow the instructions.
+4. When you think you have the correct answers in `Day1Notes.md`, and you think your program runs correctly in `Day1.py`,
 add your changes and make a commit.
-6. Push your changes to a `NEW` branch called: `day1-homework`, *not* the master branch, and create a `pull-request` to the master branch.
-7. `DO NOT MERGE` the pull-request.
+5. Push your changes to a `NEW` branch called: `day1-homework`, *not* the main branch, and create a `pull-request` to the master branch.
+    * `git checkoub -b day1-homework`
+    * `git add -p` --> insert y/n to each change you want to keep
+    * `git commit -m "my day1 homework"`
+6. `DO NOT MERGE` the pull-request.
 7. Let me know you have pushed. I will either:
     * `Approve` your changes, or 
     * `Request fixes` by adding comments to your `pull-request`. You can either make the changes I comment on **OR** we 
